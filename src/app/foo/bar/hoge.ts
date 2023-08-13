@@ -1,0 +1,3 @@
+protected function(hoge: string) {
+
+}
